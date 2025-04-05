@@ -1,0 +1,1 @@
+This project is a simple C++ console-based E-Commerce Recommendation System that recommends products to users based on their interests. It uses a hash table data structure to efficiently store and retrieve user preferences and product categories.
